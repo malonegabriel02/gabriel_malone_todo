@@ -1,2 +1,5 @@
-# gabriel_malone_todo
-This simple to-do app takes into consideration the task you want to view, the ability to add or remove a specific task, and the option to exit the program. The program will continue to ask which option you want until you choose to exit the program.
+# Development Stack
+
+- **IDE**: Visual Studio Code (1.93.0)  
+- **Python Version**: Python 3.11.6  
+- **Virtual Environment**: venv (`python -m venv venv`)  
